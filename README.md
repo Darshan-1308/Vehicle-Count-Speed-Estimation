@@ -13,7 +13,7 @@ This project is designed to estimate the number of vehicles on the road and calc
 ## Technologies Used
 
 - OpenCV
-- TensorFlow / YOLO (for vehicle detection)
+- TensorFlow / YOLO
 - Python
 
 ## How It Works
