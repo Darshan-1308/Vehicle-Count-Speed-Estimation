@@ -18,8 +18,8 @@ This project is designed to estimate the number of vehicles on the road and calc
 
 ## How It Works
 
-1. **Vehicle Detection**: The system uses object detection algorithms (e.g., YOLO or Faster R-CNN) to detect vehicles in each video frame.
-2. **Tracking**: Once vehicles are detected, tracking algorithms (like Kalman Filter or SORT) are applied to follow the vehicles as they move through the frame.
+1. **Vehicle Detection**: The system uses object detection algorithms (e.g., YOLOV8n) to detect vehicles in each video frame.
+2. **Tracking**: Once vehicles are detected, tracking algorithms are applied to follow the vehicles as they move through the frame.
 3. **Speed Calculation**: The system calculates speed based on the distance covered by the vehicle between frames and the frame rate of the video.
 4. **Vehicle Count**: The system counts vehicles that pass through a predefined line or area of interest within the video feed.
 
