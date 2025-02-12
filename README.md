@@ -22,12 +22,3 @@ This project is designed to estimate the number of vehicles on the road and calc
 2. **Tracking**: Once vehicles are detected, tracking algorithms are applied to follow the vehicles as they move through the frame.
 3. **Speed Calculation**: The system calculates speed based on the distance covered by the vehicle between frames and the frame rate of the video.
 4. **Vehicle Count**: The system counts vehicles that pass through a predefined line or area of interest within the video feed.
-
-## Setup
-
-To run the project, clone this repository and install the required dependencies:
-
-```bash
-git clone https://github.com/yourusername/vehicle-count-speed-estimation.git
-cd vehicle-count-speed-estimation
-pip install -r requirements.txt
