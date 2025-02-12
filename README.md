@@ -20,4 +20,4 @@ This project is designed to estimate the number of vehicles on the road and calc
 1. **Vehicle Detection**: The system uses object detection algorithms to detect vehicles in each video frame.
 2. **Tracking**: Once vehicles are detected, tracking algorithms are applied to follow the vehicles as they move through the frame.
 3. **Speed Calculation**: The system calculates speed based on the distance covered by the vehicle between frames and the frame rate of the video.
-4. **Vehicle Count**: The total number of vehicles count in the video.
+4. **Vehicle Count**: The total number of vehicles count in the video frame.
