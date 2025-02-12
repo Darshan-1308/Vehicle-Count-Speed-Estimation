@@ -1,6 +1,6 @@
 # Vehicle Count and Speed Estimation
 
-This project is designed to estimate the number of vehicles on the road and calculate their speeds using computer vision techniques. The system processes video feeds or real-time camera data to detect and track vehicles. By analyzing frame-by-frame motion, it can provide accurate estimates of vehicle count and speed.
+This project is designed to estimate the number of vehicles on the road and calculate their speeds using computer vision techniques. The system processes video feeds or real time camera data to detect and track vehicles. By analyzing frame by frame motion, it can provide accurate estimates of vehicle count and speed.
 
 ## Features
 
